@@ -1,1 +1,1 @@
-System.Out.Println("Hello")
+System.out.println("Hello")
